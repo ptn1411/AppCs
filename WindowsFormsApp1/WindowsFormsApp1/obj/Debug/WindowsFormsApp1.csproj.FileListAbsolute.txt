@@ -1,0 +1,12 @@
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TableManager.resources
+D:\code\AppCs\AppCs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AccountProfile.resources
