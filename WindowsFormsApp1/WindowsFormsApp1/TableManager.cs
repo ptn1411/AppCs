@@ -10,21 +10,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void TableManager_Load(object sender, EventArgs e)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            throw new System.NotImplementedException();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            throw new System.NotImplementedException();
-        }
-
+  
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();

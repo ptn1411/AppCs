@@ -111,7 +111,6 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Mật khẩu:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // panel2
             // 
@@ -138,7 +137,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên đăng nhập:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // Form1
             // 
@@ -152,7 +150,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
             this.panel3.ResumeLayout(false);

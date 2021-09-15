@@ -173,7 +173,7 @@ namespace WindowsFormsApp1
             this.button2.TabIndex = 3;
             this.button2.Text = "Thanh toán";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+   
             // 
             // panel4
             // 
@@ -218,7 +218,7 @@ namespace WindowsFormsApp1
             this.button1.TabIndex = 2;
             this.button1.Text = "Thêm món";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+    
             // 
             // TableManager
             // 
@@ -232,7 +232,7 @@ namespace WindowsFormsApp1
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "TableManager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Load += new System.EventHandler(this.TableManager_Load);
+
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
